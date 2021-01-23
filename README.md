@@ -2,6 +2,8 @@
 
 ![React Employee Directory](EmpDirScreenShot.jpg)
 
+Here is a link to the deployed webpage: [https://react-employee-directory-dep.herokuapp.com/]
+
 ## Project Description
 * This app utilizes an API to populate random users and then create a directory. Other users on the app can search for employees by "name" and also organize each field (Name, Email, DOB) in ascending or descending order.
 
